@@ -11,3 +11,4 @@ College: K.J.Somaiya College of Engineering, Vidyavihar
 
 This folder contains the paper,presentation and implementation of a system related to Antibodies and proteins.
 We can find out about the various complexes proteins form, about the chains they are made up of and other specific details using python and a database system.
+The code can run by downloading the Abdb folder,then running all the codes once, and then implementing the final_code file .
